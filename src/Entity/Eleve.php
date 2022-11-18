@@ -38,6 +38,7 @@ class Eleve
     private $adresse;
 
     /**
+
      * @ORM\Column(type="string", length=255)
      */
     private $contactParent;
